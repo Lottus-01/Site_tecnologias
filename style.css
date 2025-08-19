@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+*{
+     padding: 25px;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.titulo{
+    font-family: "Fredoka", sans-serif;
+    color: rgb(159, 82, 161);
+}
+
+.textocorpo{ 
+    font-family: "Fredoka", sans-serif;
+    color: rgb(133, 43, 77);
+}
