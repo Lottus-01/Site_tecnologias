@@ -6,6 +6,15 @@
     box-sizing: 0;
 }
 
+p{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h1{
+    background-color: burlywood;
+}
+
+
 .titulo{
     font-family: "Fredoka", sans-serif;
     color: rgb(159, 82, 161);
@@ -13,5 +22,5 @@
 
 .textocorpo{ 
     font-family: "Fredoka", sans-serif;
-    color: rgb(133, 43, 77);
+    color: rgb(133, 32, 70);
 }
